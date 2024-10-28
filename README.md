@@ -1,1 +1,1 @@
-# max-s-gallery
+# Max's Gallery
